@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qnaiv/vuepress-introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qnaiv/vuepress-introduction/issues"
+  },
+  "homepage": "https://github.com/qnaiv/vuepress-introduction#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
